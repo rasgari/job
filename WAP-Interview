@@ -1,0 +1,93 @@
+WAP-Interview 
+
+سوالات و پاسخ های مصاحبه تست نفوذ وب 
+
+ --- cash poisoning ----
+
+ --- cash cookie ----
+
+
+ --- burp tamparing ----
+
+
+ --- SSRF ----
+
+### SSRF normal /// SSRF blind ###
+
+
+--- response , time ---
+
+
+--- cloud hacking ---
+
+--- open redirect ---
+
+--- XSS ---
+
+### XSS DOM ####
+
+### XSS STORE=BLIND ####
+
+### XSS REFLECTED=BLIND ####
+
+
+--- phishing  ---
+
+
+--- account take over ---
+
+
+--- upload shell ---
+
+--- RCE ---
+
+--- SQL injection ---
+
+### blind ###
+
+### time base ###
+
+### boolean base ###
+
+
+--- DDOS ---
+
+--- Authentication ---
+
+### forget password ###
+
+### register ###
+
+### login ###
+
+--- broken authentication ---
+
+--- dependence authentication ---
+
+
+--- broken access control ---
+
+--- IDOR ---
+
+--- Mass a signment ---
+
+--- JWT ---
+
+--- CSRF ---
+
+---  XXE ---
+
+--- LFI ---
+
+--- smalling ---
+
+--- wordlist ---
+
+--- subdomain brute force ---
+
+--- pass discovery ---
+
+--- parameter discovery ---
+
+--- cookie discovery ---
+
